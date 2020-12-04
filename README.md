@@ -4,7 +4,13 @@ Byder.js is a JavaScript platform.
 
 Clone this repo on the command line:
 
-```bash
-cd byder.js
-git clone https://github.com/Brunozhon/byder.js
+```
+$ cd byder.js
+$ git clone https://github.com/Brunozhon/byder.js
+```
+
+Using GitHub CLI
+
+```
+$ gh repo clone Brunozhon/byder.js
 ```
