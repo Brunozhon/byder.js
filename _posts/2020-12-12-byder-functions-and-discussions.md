@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Byder Functions and Discusions
 ---
 # Byder functions and discussions
 
