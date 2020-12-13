@@ -17,7 +17,8 @@ byder.$.ready = function(elem, _do) {
 byder.$.select = function(id) {
   return document.querySelectorAll(id);
 }
-byder.$.noconfilct = function() {
-  
+byder.$.noconfilct = function(func) {
+  var $ = byder;
+  func()
 }
 var $ = byder;
