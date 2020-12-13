@@ -4,4 +4,5 @@ layout: home
 
 # Byder.js
 
-[All blogs](blogs.html)
+- [All blogs](blogs.html)
+- [Docs](docs/)
