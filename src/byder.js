@@ -1,4 +1,5 @@
 var byder = {};
+byder.$ = {};
 byder.add = function(add, add2, ex, divbyex) {
   if (ex) {
     if (divbyex == true) {
@@ -10,3 +11,13 @@ byder.add = function(add, add2, ex, divbyex) {
     return add + add2;
   }
 }
+byder.$.ready = function(elem, _do) {
+  elem.onload = _do;
+}
+byder.$.select = function(id) {
+  return document.querySelectorAll(id);
+}
+byder.$.noconfilct = function() {
+  
+}
+var $ = byder;
