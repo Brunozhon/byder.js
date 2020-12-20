@@ -6,7 +6,7 @@ title: Byder Functions and Discusions
 
 ## Discussions
 
-You can share disscusions at [the GitHub repo](https://github.com/Brunozhon/byder.js/discussions). I've created one at the very beginning so you will konw how to use the discussions tab.
+You can share disscusions at [the GitHub repo](https://github.com/Brunozhon/byder.js/discussions). I've created one at the very beginning so you will konw how to use discussions.
 
 ## Functions
 
